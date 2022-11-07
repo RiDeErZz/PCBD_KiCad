@@ -19,7 +19,7 @@ U 1 1 633C250C
 P 1850 2300
 F 0 "J1" H 1768 1975 50  0000 C CNN
 F 1 "Power" H 1768 2066 50  0000 C CNN
-F 2 "" H 1850 2300 50  0001 C CNN
+F 2 "PCDB_project:Power" H 1850 2300 50  0001 C CNN
 F 3 "~" H 1850 2300 50  0001 C CNN
 F 4 "20.101M/2" H 1768 1975 50  0001 C CNN "Name"
 F 5 "IMO" H 1768 2066 50  0001 C CNN "anufacturer"
@@ -73,7 +73,7 @@ U 1 1 633C6F8B
 P 3550 2200
 F 0 "L1" V 3831 2200 50  0000 C CNN
 F 1 "5.6uH" V 3740 2200 50  0000 C CNN
-F 2 "" H 3550 2200 50  0001 C CNN
+F 2 "PCDB_project:tck141" H 3550 2200 50  0001 C CNN
 F 3 "~" H 3550 2200 50  0001 C CNN
 F 4 "tck141" V 3649 2200 50  0000 C CNN "Name"
 F 5 "Traco" H 3550 2200 50  0001 C CNN "Manufacturer"
@@ -372,4 +372,14 @@ F 3 "~" H 4000 2200 50  0001 C CNN
 	1    4000 2200
 	1    0    0    -1  
 $EndComp
+Text Label 2250 2200 0    50   ~ 0
+pwr1
+Text Label 3050 2200 0    50   ~ 0
+pwr2
+Text Label 3750 2200 0    50   ~ 0
+pwr3
+Text Label 5000 2200 0    50   ~ 0
+pwr4
+Text Label 5700 2200 0    50   ~ 0
+pwr5
 $EndSCHEMATC
