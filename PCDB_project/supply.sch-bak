@@ -372,4 +372,14 @@ F 3 "~" H 4000 2200 50  0001 C CNN
 	1    4000 2200
 	1    0    0    -1  
 $EndComp
+Text Label 2250 2200 0    50   ~ 0
+pwr1
+Text Label 3050 2200 0    50   ~ 0
+pwr2
+Text Label 3750 2200 0    50   ~ 0
+pwr3
+Text Label 5000 2200 0    50   ~ 0
+pwr4
+Text Label 5700 2200 0    50   ~ 0
+pwr5
 $EndSCHEMATC
