@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PCDB_project)(type KiCad)(uri ${KIPRJMOD}/PCDB_project.pretty)(options "")(descr ""))
+)
